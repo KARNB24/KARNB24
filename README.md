@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karnb24&label=Profile%20views&color=0e75b6&style=flat" alt="karnb24" /> </p>
 
-- 🔭 I’m currently working on **Updating my portfolio website**
+- 🔭 I’m currently working on **Making new projects to put on my Portfolio website**
 
 - 🌱 I’m currently learning **IBM Full Stack Software Developer Certification Course**
 
