@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Making new projects to put on my Portfolio website**
 
-- 🌱 I’m currently learning **IBM Full Stack Software Developer Certification Course**
+- 🌱 I’m currently learning **RapidAPI**
 
 - 👨‍💻 All of my projects are available at [https://karnbhavsar.netlify.app/](https://karnbhavsar.netlify.app/)
 
