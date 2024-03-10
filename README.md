@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **karnbhavsar12@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ojg9j_zteZgIEvMPZ4p4Y6zDSVEyKOCZ/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://karnbhavsar.netlify.app/static/media/Karn_Bhavsar_Resume.a6168deb3ac7b17bd231.pdf)
 
 - ⚡ Fun fact **I am a fitness freak**
 
