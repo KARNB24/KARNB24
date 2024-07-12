@@ -16,8 +16,8 @@
 - 📫 How to reach me **karnbhavsar12@gmail.com**
 
 - 📄 Know about my experiences
-       - [Full Stack Web Developer Resume](https://karnbhavsar.netlify.app/static/media/Karn_Bhavsar_Resume_FullStackWebDeveloper.203cf49a6305c4b3dfb5.pdf)
-       - [Game Developer Resume](https://karnbhavsar.netlify.app/static/media/Karn_Bhavsar_Resume_GameDeveloper.ec114a6d2291277c8a68.pdf)
+        [Full Stack Web Developer Resume](https://karnbhavsar.netlify.app/static/media/Karn_Bhavsar_Resume_FullStackWebDeveloper.203cf49a6305c4b3dfb5.pdf)
+        [Game Developer Resume](https://karnbhavsar.netlify.app/static/media/Karn_Bhavsar_Resume_GameDeveloper.ec114a6d2291277c8a68.pdf)
 
 - ⚡ Fun fact **I am a fitness freak**
 
